@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mahmoud 
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on Projects with pepole..
+- 🌱 I’m currently working wiht  React native
 - 📫 How to reach me discord: Oda#8950
 
 <!---
