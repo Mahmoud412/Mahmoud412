@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mahmoud 
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently working wiht  React native
+- 🌱 I’m currently working with  React native
 - 📫 How to reach me discord: Oda#8950
 
 <!---
